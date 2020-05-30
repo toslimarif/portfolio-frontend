@@ -1,3 +1,3 @@
 # Portfolio - Toslim Arif
 
-Checkout my portfolio available in  [https://toslimarif.com/](https://toslimarif.com/)
+Checkout my portfolio available in  [https://www.toslimarif.com/](https://www.toslimarif.com/)
